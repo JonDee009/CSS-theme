@@ -1,4 +1,14 @@
-/* Lissitzky "Proun" CSS HEX */
+     /* BAUHAUS COLOR-PALETT CSS HEX */
+
+/* CSS HEX bauhaus-primary */
+--american-red: #be1e2d;
+--metallic-yellow: #ffde17;
+--dark-cornflower-blue: #21409a;
+--black: #000000;
+--white: #ffffff;
+
+
+      /* Lissitzky 'Prouns' */
 
 /* CSS HEX PROUN classic */
 --valencia: #d83539;
@@ -48,9 +58,9 @@
 --gray-olive: #acac92;
 
 
-/* BAUHAUS CSS HEX */
+      /* BAUHAUS CSS HEX */
 
-/* CSS HEX tamarillio - Anni Alberg */
+/* CSS HEX tamarillio [Anni Alberg] */
 --cognac: #ad3b1e;
 --gold-sand: #e7bb7d;
 --zeus: #2f2b22;
@@ -62,7 +72,7 @@
 --tamarillo: #8f1316;
 
 
-/* CSS HEX careys-pink - Gunta Stölzl '369' */
+/* CSS HEX careys-pink [Gunta Stölzl'369'] */
 --chalet-green: #44683c;
 --violet-red: #f23f9c;
 --wild-rice: #e7ea83;
